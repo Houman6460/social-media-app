@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Terms of Service - Personal Social Media Manager</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; line-height: 1.6; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p>Last updated: February 27, 2024</p>
+    
+    <h2>1. Overview</h2>
+    <p>This is a personal social media management tool intended for individual use. By using this application, you agree to these terms.</p>
+    
+    <h2>2. Service Description</h2>
+    <p>This tool provides automated posting and scheduling capabilities for personal social media accounts.</p>
+    
+    <h2>3. Usage Terms</h2>
+    <p>This tool is intended for personal use only and should be used in compliance with the terms of service of the respective social media platforms (Facebook, Instagram, TikTok).</p>
+    
+    <h2>4. Limitations</h2>
+    <p>This tool is provided "as is" without any warranties. The developer is not responsible for any issues arising from its use.</p>
+    
+    <h2>5. Contact</h2>
+    <p>For any questions regarding these terms, please contact the developer.</p>
+</body>
+</html>
